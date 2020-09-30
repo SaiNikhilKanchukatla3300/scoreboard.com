@@ -7,7 +7,7 @@
     "start" :"node app.js"
     
   },
-  "author": "Hemanth and sainikhil",
+  "author": "sainikhil and hemanth",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.5",
